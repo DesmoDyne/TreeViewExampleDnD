@@ -1,0 +1,22 @@
+[
+  {
+    "id":    "1",
+    "color": "#158fad",
+    "title": "item 01"
+  },
+  {
+    "id":    "2",
+    "color": "#b8256f",
+    "title": "item 02"
+  },
+  {
+    "id":    "4",
+    "color": "#4073ff",
+    "title": "item 04"
+  },
+  {
+    "id":    "8",
+    "color": "#b8256f",
+    "title": "item 08"
+  }
+]
